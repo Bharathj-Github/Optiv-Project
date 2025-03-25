@@ -117,7 +117,7 @@ MainData = {"IP Data": IPData, "URL Data":URLData,"File Data":FileData}
 
 insert_database(MainData)
 
-recipient_email = "bharathj0410@outlook.com;bharathj0410@gmail.com"
+recipient_email = ""
 cc_email = ""
 subject = "Automated IP Enrichment Report – By Bharath"
 html_body = ""
